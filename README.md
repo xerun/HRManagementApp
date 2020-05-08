@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
+## Folder Structure
+![Image](https://github.com/xerun/HRManagementApp/blob/master/img/folder.JPG)
+
 ## Login
 ![Image 1](https://github.com/xerun/HRManagementApp/blob/master/img/login.JPG)
 
