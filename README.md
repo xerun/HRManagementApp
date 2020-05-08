@@ -2,6 +2,27 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
+## Login
+![Image 1](https://github.com/xerun/HRManagementApp/blob/master/img/login.JPG)
+
+## Employee
+![Image 2](https://github.com/xerun/HRManagementApp/blob/master/img/employee.JPG)
+
+## Job
+![Image 2](https://github.com/xerun/HRManagementApp/blob/master/img/job.JPG)
+
+## Department
+![Image 2](https://github.com/xerun/HRManagementApp/blob/master/img/department.JPG)
+
+## Department Update
+![Image 3](https://github.com/xerun/HRManagementApp/blob/master/img/departmentupdate.JPG)
+
+## Department Successful Update
+![Image 4](https://github.com/xerun/HRManagementApp/blob/master/img/updatesuccess.JPG)
+
+## Department Delete
+![Image 4](https://github.com/xerun/HRManagementApp/blob/master/img/deletedepartment.JPG)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
