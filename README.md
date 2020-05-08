@@ -5,7 +5,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Login
 ![Image 1](https://github.com/xerun/HRManagementApp/blob/master/img/login.JPG)
 
-## Employee
+## Employee  
+A single page CRUD operation, on the right list of employees are shown and on the left the employee form. When a new employee
+is added, the list auto refreshes and shows the updated list. When a row is clicked from the list, it auto populate the form
+with all the records so that it can be updateded.  
+The delete button will show a confirmation box to the user, upon confirming the record will be deleted from the database and 
+auto refresh the list.
 ![Image 2](https://github.com/xerun/HRManagementApp/blob/master/img/employee.JPG)
 
 ## Job
