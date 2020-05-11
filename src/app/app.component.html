@@ -16,9 +16,9 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item"><a class="nav-link" href="/">Departments</a></li>
-                <li class="nav-item"><a class="nav-link" href="employee">Employees</a></li>                
-                <li class="nav-item"><a class="nav-link" href="job">Jobs</a></li>
+                <li class="nav-item" routerLinkActive="active"><a class="nav-link" [routerLink]="['/']">Departments</a></li>
+                <li class="nav-item" routerLinkActive="active"><a class="nav-link" [routerLink]="['employee']">Employees</a></li>                
+                <li class="nav-item" routerLinkActive="active"><a class="nav-link" [routerLink]="['job']">Jobs</a></li>
             </ul>
             <form class="form-inline my-2 my-lg-0" [formGroup]="searchMenu" >
                 <input class="form-control mr-sm-2" type="search" formControlName="search"
